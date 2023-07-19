@@ -6,9 +6,9 @@ Hey, I'm Tristan. I am currently a student at Irvington.
 I'm just a guy who's interested in coding, writing code for a bit of everything.
 
 
-I created this account with the goal of creating more sophisticated projects.  If you want to see where I started doing a little bit of coding, check out my [first](https://github.com/Koolwiza) github profile. Most of the projects on this page were created using discord.js.
+This is my second github account with the goal of creating more sophisticated projects. If you want to see where I started, check out my [first](https://github.com/Koolwiza) github profile. Most of the projects on this page were created using discord.js.
 
-### Skills I believe I have the slightest bit of knowledge in
+### Technologies I have used
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
