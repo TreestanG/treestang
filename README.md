@@ -16,7 +16,12 @@ I created this account with the goal of creating more sophisticated projects.  I
 
 
 ### Currently learning
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NextJs](https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+*okay I maybe a little interested in web development right now*
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=treestang&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=treestang&hide=TeX&layout=compact)
