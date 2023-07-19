@@ -3,7 +3,8 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=treestang&repo=treestang&countColor=%237B1E7A)
 
 Hey, I'm Tristan. I am currently a student at Irvington.
-I'm just a guy who's interested in coding, not with any more interest in one subject. 
+I'm just a guy who's interested in coding, writing code for a bit of everything.
+
 
 I created this account with the goal of creating more sophisticated projects.  If you want to see where I started doing a little bit of coding, check out my [first](https://github.com/Koolwiza) github profile. Most of the projects on this page were created using discord.js.
 
