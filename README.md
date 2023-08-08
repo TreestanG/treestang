@@ -18,8 +18,10 @@ This is my second github account with the goal of creating more sophisticated pr
 
 
 ### Currently learning
-![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NextJs](https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=reactjs&logoColor=white)
+![NextJs](https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=nextjs&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
 
 *I may be interested in web development right now*
 
