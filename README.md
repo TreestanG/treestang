@@ -15,13 +15,14 @@ This is my second github account with the goal of creating more sophisticated pr
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-### Currently learning
-![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=reactjs&logoColor=white)
+![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=nextjs&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
+### Currently learning
+
+![Typescript](https://img.shields.io/badge/-typescript-06B6D4?style=for-the-badge&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/-prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 *I may be interested in web development right now*
 
