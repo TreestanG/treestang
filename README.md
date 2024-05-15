@@ -23,6 +23,7 @@ This is my second github account with the goal of creating more sophisticated pr
 
 ![Typescript](https://img.shields.io/badge/-typescript-06B6D4?style=for-the-badge&logo=typescript&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Stripe](https://img.shields.io/badge/-stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 *I may be interested in web development right now*
 
