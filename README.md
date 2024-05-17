@@ -27,5 +27,4 @@ This is my second github account with the goal of creating more sophisticated pr
 
 *I may be interested in web development right now*
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=treestang&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=treestang&hide=TeX&layout=compact)
