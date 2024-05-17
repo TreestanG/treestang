@@ -16,7 +16,7 @@ This is my second github account with the goal of creating more sophisticated pr
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![NextJs](https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=nextjs&logoColor=white)
+![NextJs](https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
 ### Currently learning
