@@ -18,10 +18,12 @@ This is my second github account with the goal of creating more sophisticated pr
 ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Typescript](https://img.shields.io/badge/-typescript-06B6D4?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/-supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 
 ### Currently learning
 
-![Typescript](https://img.shields.io/badge/-typescript-06B6D4?style=for-the-badge&logo=typescript&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
