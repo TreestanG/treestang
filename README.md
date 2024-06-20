@@ -3,10 +3,10 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=treestang&repo=treestang&countColor=%237B1E7A)
 
 Hey, I'm Tristan. I am currently a student at Irvington.
-I'm just a guy who's interested in coding, writing code for a bit of everything.
+I like to spend my spare time working on personal projects, playing volleyball, learning piano, and adventuring with amateur photography.
 
 
-This is my second github account with the goal of creating more sophisticated projects. If you want to see where I started, check out my [first](https://github.com/Koolwiza) github profile. Most of the projects on this page were created using discord.js.
+This is my second github account with the goal of creating more sophisticated projects. If you want to see where I started, check out my [first](https://github.com/Koolwiza) github profile. Most of the projects on this page were created using [discord.js](https://discord.js.org/). Currently, I'm focusing spending my summer on building web apps with React!
 
 ### Technologies I have used
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,7 +26,5 @@ This is my second github account with the goal of creating more sophisticated pr
 
 ![Prisma](https://img.shields.io/badge/-prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-
-*I may be interested in web development right now*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=treestang&hide=TeX&layout=compact)
